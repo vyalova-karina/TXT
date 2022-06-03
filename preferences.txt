@@ -1,0 +1,5 @@
+favorite film: Titanic
+favorite serial: Friends
+favorite food: frenchFries
+favorite season: summer
+country I want to visit: Italy
