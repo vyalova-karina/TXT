@@ -1,0 +1,4 @@
+name: Karina Andreevna Vyalova
+age: 26
+pet count: 1
+future salary: 1000
